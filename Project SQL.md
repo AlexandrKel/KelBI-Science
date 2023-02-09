@@ -1,4 +1,4 @@
-#PROJEKT SQL_KelBI
+#Project SQL_KelBI
 
 #1
 
